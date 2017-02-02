@@ -4,6 +4,7 @@
   font-size: 18px;
   text-align: center;
 }
+
 h1 {
   text-align: center;
   color: green;
@@ -12,10 +13,12 @@ h1 {
   border: 2px solid black;
   margin-top: 20px;
 }
+
 .sub {
   font-size: 16px;
   font-style: italic;
 }
+
 .btn {
   background-color: black;
   color: white;
@@ -23,10 +26,12 @@ h1 {
   padding: 2px 40px;
   text-decoration: none;
 }
+
 .footer {
   font-weight: bold;
   font-size: 12px;
 }
+
 img {
   height: 300px;
   width: 400px;
